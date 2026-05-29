@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "introducao-ao-nextjs",
+    "titulo": "Introdução ao Next.js com App Router",
+    "autor": "Rodrigo Dev",
+    "data": "2026-05-20",
+    "descricao": "Aprenda as bases do framework mais popular do React.",
+    "conteudo": "O App Router mudou a forma como construímos aplicações...",
+    "imagem": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&q=80&w=1000"
+  }
+]
